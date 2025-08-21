@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Math and Statistics, UofT Scarborough, 2026 (expected)
+  * cGPA: 3.86/4.00 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Research Scholar
+  * Project: Modeling Non-stationary Processes of Extremes using Regression Trees
+  * Funded by the Data Sciences Institute(https://datasciences.utoronto.ca/suds-student-call-2025/)
+  * Supervisors: Paul Kushner and Karen Smith 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: Research Student
+  * Project: Modeling PM2.5 Pollution from Wildfires in British Columbia using Machine Learning
+  * Two-week research program funded by UofT Statistical Sciences Department(https://www.statistics.utoronto.ca/UTSSRP)
+  * Collaborators: Hazel Buechner, Paula Mali, Madelyn Zhang
+  * Supervisors: Meredith Franklin and Bernard Miskic(PHD)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fall 2023: Data Scientist Co-op
+  * Project: Exploring Anomaly Detection Methods using Artificial Intelligence
+  * Company: Hatch Ltd.
