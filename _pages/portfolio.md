@@ -10,7 +10,7 @@ Collection of research reports I have written throughout my undergraduate degree
 
   - Funded by Data Sciences Institude through the Summer Undergraduate Data Science Research Program
   - Supervisors: Paul Kushner, Karen Smith
-  - [Paper](../files/Extreme_Winds_SUDS.pdf) || [Slides](../files/SUDS_Extreme_Wind_Presentation.pdf) || [Poster](../files/SUDS_Extreme_Winds_Poster__Copy_.pdf)
+  - [Paper](../files/Extreme_Winds_SUDS.pdf), [Slides](../files/SUDS_Extreme_Wind_Presentation.pdf), [Poster](../files/SUDS_Extreme_Winds_Poster__Copy_.pdf)
 
 ### Modeling PM2.5 Pollution from Wildfires in British Columbia using Machine Learning (2025)
 
@@ -21,7 +21,7 @@ Collection of research reports I have written throughout my undergraduate degree
 ### Logistic Regression vs. Bayesian Logistic Regression in Breast Cancer Identification (2025)
 
   - Project from STAC58 (Statistical Inference)
-  - [Paper](../files/STAC58_Project_Report.pdf) || [Slides](../files/STAC58_Project.pdf)
+  - [Paper](../files/STAC58_Project_Report.pdf), [Slides](../files/STAC58_Project.pdf)
 
 ### Exploring Anomaly Detection Methods Using Artificial Intelligence (2023)
 
