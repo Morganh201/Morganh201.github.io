@@ -10,7 +10,7 @@ Collection of research reports I have written throughout my undergraduate degree
 
   - Funded by Data Sciences Institude through the Summer Undergraduate Data Science Research Program
   - Supervisors: Paul Kushner, Karen Smith
-  - [Paper](files/Extreme_Winds_SUDS.pdf)
+  - [Paper](../files/Extreme_Winds_SUDS.pdf)
 
 ### Modeling PM2.5 Pollution from Wildfires in British Columbia using Machine Learning (2025)
 
