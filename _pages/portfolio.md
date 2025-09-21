@@ -5,6 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+Collection of research reports I have written throughout my undergraduate degree. 
 ### Non-Stationary Modeling of Extreme Events using Extreme Value Theory and Regression Trees
 
   - Funded by Data Sciences Institude through the Summer Undergraduate Data Science Research Program
