@@ -14,3 +14,5 @@ I am a 4th year undergraduate math and statistics student at UofT. I am interest
 E-mail: <morgan.huang@mail.utoronto.ca>
 
 Phone: 416-893-6028
+
+Linkedin: <https://www.linkedin.com/in/morganhuang237/>
